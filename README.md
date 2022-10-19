@@ -4,7 +4,7 @@
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=njiti&layout=compact" />
 
 
-<img  alt="Data Bases" src="https://www.istockphoto.com/photos/database](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Octicons-database.svg/768px-Octicons-database.svg.png" />
+<img  alt="Data Bases" src="https://www.computerhope.com/jargon/d/database.png" />
 
 <img  alt="Firebase" align="left" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
 <img alt="MongoDB" align="left" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
