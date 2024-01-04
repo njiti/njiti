@@ -86,4 +86,4 @@
 ##
 ## Watch out for the snake working against me
 
-![snake gif](https://github.com/njiti/njiti/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/njiti/njiti/blob/output/github-contribution-grid-snake.gif)
