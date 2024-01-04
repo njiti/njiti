@@ -81,3 +81,9 @@
 <img  alt="Version Control" src="https://www.istockphoto.com/photos/database" />
 
 <img alt="Github" align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+
+##
+##
+## Watch out for the snake working against me
+
+![snake gif](https://github.com/njiti/njiti/blob/output/github-contribution-grid-snake.svg)
